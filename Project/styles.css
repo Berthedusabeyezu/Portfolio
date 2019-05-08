@@ -40,7 +40,7 @@
       color: rgba(0, 35, 122, 0.7);
   }
   #banner{
-    padding-bottom :1.5%;
+    padding-bottom :1%;
     background-color:rgba(3, 3, 3, 0.1); 
   }
   #banner>a {
@@ -68,7 +68,7 @@
   /* the about css style*/
   h1{
       text-align:center;
-      padding:50px;
+      padding:1px;
   }
   /* #im{
       height:300PX;
@@ -82,7 +82,7 @@
       margin-right:300px;
       margin-left:500px;
       font-size:24px;
-      padding:10px;
+      padding:1px;
   }
   /*the portofolio css style */
   .orderedList{
@@ -133,13 +133,13 @@
     textarea{
       background-color: #000;
       margin-left:650px;
-      padding:20px; 
+      padding:1px; 
       width:28%; 
       color:white;
     }
     button{
-      margin-left:1000px;
-      padding:20px;
+      margin-left:100px;
+      padding:2px;
       border-radius:10px;
       width:180px;
     } 
@@ -155,4 +155,13 @@
      
   .btn btn-info{
     border-radius:5%;
+
+}
+/* img{
+    height: 200px;
+    width: 200px;
+} */
+.img{
+    height: 1000px;
+    width: 1000px;
 }
